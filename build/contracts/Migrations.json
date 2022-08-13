@@ -2324,11 +2324,11 @@
       "events": {},
       "links": {},
       "address": "0x512F7469BcC83089497506b5df64c6E246B39925",
-      "transactionHash": "0xf1bb24eb90dc0f7f70152bded90e90bdba11fc3c9fb0cb35ee461c2782d7ca41"
+      "transactionHash": "0x3bcee1556db9577d430df06a1dfd277e77220ba0e4e8eeeb2e410455971b9cfb"
     }
   },
   "schemaVersion": "3.4.4",
-  "updatedAt": "2022-08-11T17:31:04.773Z",
+  "updatedAt": "2022-08-12T09:56:59.100Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",

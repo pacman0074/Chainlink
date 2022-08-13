@@ -13,7 +13,7 @@ contract PriceConsumerV3 {
      * Address: 0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419
      */
     constructor() {
-        priceFeed = AggregatorV3Interface(0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419);
+        priceFeed = AggregatorV3Interface(0x0d16d4528239e9ee52fa531af613AcdB23D88c94);
     }
 
     /**
